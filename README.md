@@ -43,7 +43,7 @@ root@jacob:/root/.minecraft/config/ChatTriggers/modules/jacoob$ python3 api.py
 ```
 
 ## Retrieving and moving data
-In your terminal window, close the python program and open a file explorer. Copy the `events.json` file into the `jacob-bot` repository and you're all set! If you have any questions or errors, contact @WindowsVistaisCool.
+In your terminal window, close the python program and open a file explorer. Copy the `events.json` file into the `jacob-bot` repository and you're all set! If you have any questions or errors, contact @WindowsVistaisCool. **Please note that this data is in MS, not seconds, and you will need to run `cogs.util.configure_data()` to convert this to seconds and remove 5 minutes**
 
 ### Commands (linux/debian):
 ```
