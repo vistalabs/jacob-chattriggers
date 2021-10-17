@@ -3,9 +3,8 @@
 module.exports = {};
 import request from '../requestV2';
 
-// good luck using this lmao
-// open the calendar, press h, go to next page and repeat until you get to the last page
-// then /uploadjacobdata or whatever you want to do with the data
+// Written originally by matcool on github: https://github.com/matcool
+// Modified by WindowsVistaisCool: https://github.com/WindowsVistaisCool
 
 const itemsEnum = {
     'Cactus': 0,
