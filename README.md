@@ -1,4 +1,4 @@
-# jacob-data
+# jacob-chattriggers
 ChatTriggers module to collect data manually from the skyblock menu
 
 ## Setup
